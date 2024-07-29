@@ -4,6 +4,6 @@ use function Dummy\Sapi\sapi;
 
 $sapi = sapi();
 
-$v = 'v2';
+$v = 'Specific commit';
 
 echo "$v: Hello world from $sapi";
