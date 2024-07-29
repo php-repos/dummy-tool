@@ -1,0 +1,12 @@
+{
+    "map": {
+        "Dummy": "Source"
+    },
+    "autoloads": [],
+    "excludes": [],
+    "entry-points": ["index.php"],
+    "executables": [],
+    "import-file": "phpkg.imports.php",
+    "packages-directory": "Packages",
+    "packages": []
+}
